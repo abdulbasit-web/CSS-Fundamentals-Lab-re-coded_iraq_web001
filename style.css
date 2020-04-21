@@ -5,7 +5,7 @@ body {
 }
 
 
-nav , #featured-property , h1{
+nav , #featured-property , h1 , p{
   text-align: center;
 }
 
@@ -23,7 +23,4 @@ nav a{
   
 }
 
-.p{
-text-align: center;  
-}
 
