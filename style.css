@@ -8,3 +8,8 @@ body {
 nav , #featured-property , h1{
   text-align: center;
 }
+
+nav a{
+  background-color: coral;
+  padding: 0 10px;
+}
